@@ -13,7 +13,7 @@
       <body>  
            <br /><br />  
            <div class="container" style="width:900px;">  
-                <h2 align="center">Ajax PHP MySQL Date Range Search using jQuery DatePicker</h2>  
+                <h2 align="center">Ajax PHP MySQL Date Range Search Using JQuery DatePicker</h2>  
                 <h3 align="center">Order Data</h3><br />  
                 <div class="col-md-3">  
                      <input type="date" name="from_date" id="from_date" class="form-control" placeholder="From Date" />  
